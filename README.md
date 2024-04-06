@@ -1,4 +1,11 @@
-# 💻 Tech Skills:
+### Hey 👋, I'm [Bhav](https://bhavkushwaha.netlify.app/) 
+
+## About Me 🚀
+I'm a passionate Web developer who to work on ideas that generates value for the people around me. Developing helps me to bring those ideas into reality and thus I enjoy it!
+<br>
+
+[![](https://visitcount.itsvg.in/api?id=bhavkushwaha&icon=0&color=0)](https://visitcount.itsvg.in)<br><br>
+# 💻 Tech Skills
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -37,11 +44,3 @@
 
 # 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bhavkushwaha&theme=tokyonight&hide_border=true)<br/>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=bhavkushwaha&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/bhavkushwaha?ext=heatmap)
